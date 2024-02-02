@@ -3,6 +3,8 @@ This Weather Forecast App is a simple React-based web application that enables u
 ## Download the code
 Clone the repository using VS Code
 ## Install npm 
-  Open the terminal and give command as - npm i
+  Open the terminal and give the command- npm i
 ## run the app
   Run the application using command - npm start
+  You can use the application using browser
+  Local Host Address http://localhost:3000
