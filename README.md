@@ -6,5 +6,5 @@ Clone the repository using VS Code
   Open the terminal and give the command- npm i
 ## run the app
   Run the application using command - npm start
-  You can use the application using browser
+  You can use the application using browser,
   Local Host Address http://localhost:3000
