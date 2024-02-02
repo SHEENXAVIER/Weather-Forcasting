@@ -1,6 +1,7 @@
 # Weather Forcasting
 
-Copy the repository using VS Code
+## Download the code
+Clone the repository using VS Code
 ## Install npm 
   Open the terminal and give command as - npm i
 ## run the app
