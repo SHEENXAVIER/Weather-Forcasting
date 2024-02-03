@@ -6,7 +6,6 @@ import { useState } from 'react';
 import ForeCast from './component/forecast/forecast';
 
 function App() {
-
   const [currentWeather, setcurrentWeather] = useState(null);
   const [forecast, setForeCast] = useState(null);
 
